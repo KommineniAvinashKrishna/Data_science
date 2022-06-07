@@ -4,3 +4,5 @@ heights_array=np.array(heights)
 
 #converts the array into a numpy array object via np.array object
 print((heights_array>188).sum())
+
+#output 5
